@@ -1,9 +1,11 @@
 [package]
 name = "Markdown-Editor"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 [dependencies]
 eframe = "0.32"
 egui_commonmark = "0.21"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg", "gif", "webp", "bmp", "tiff"] }
+url = "2"
 rfd = "0.15"
