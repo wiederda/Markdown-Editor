@@ -22,13 +22,8 @@ Mit dem Aktualisieren-Symbol wird die Dateiliste erneut eingelesen. Das ist beis
 
 Über **Datei → Datei öffnen …** oder `Strg+O` kannst du eine einzelne Datei öffnen. Wenn noch kein Ordner geöffnet ist, wird der übergeordnete Ordner der Datei als Dateiliste angezeigt.
 
-<<<<<<< HEAD
 ### Tabs
-=======
 Jede geöffnete Datei erscheint in einem eigenen Tab. Klicke auf einen Tab, um das Dokument zu wechseln, oder auf `×`, um ihn zu schließen. Du kannst auch mehrere Markdown-Dateien gleichzeitig auf das Programmfenster ziehen.
-
-### Neues Dokument erstellen
->>>>>>> 64406f222295e33523157e6fb9d0ec7332d91f46
 
 Geöffnete Dokumente werden in einer Tab-Leiste verwaltet. Jeder Tab zeigt den Dateityp (`MD` oder `HTML`), den Namen und einen Punkt bei ungespeicherten Änderungen. Über einen Rechtsklick auf einen Tab erreichst du **Speichern**, **Schließen** und **Andere schließen**. Mit `Strg+Tab` und `Strg+Umschalt+Tab` wechselst du zwischen den Tabs, mit dem +-Button neben der Tab-Leiste öffnest du ein neues Dokument.
 
@@ -103,7 +98,6 @@ Die Formatierungen findest du im Menü **Format**. Sie werden an der Cursorposit
 
 Die Formatierungen sind außerdem über das Kontextmenü erreichbar, das du mit einem Rechtsklick im Editor öffnest.
 
-<<<<<<< HEAD
 ## HTML bearbeiten
 
 HTML-Dateien öffnen und bearbeiten Sie wie Markdown-Dokumente, mit Syntaxhervorhebung für Tags, Attribute und Kommentare, Zeilennummern, automatischer Einrückung und Suchen & Ersetzen. Mit **Format → HTML formatieren** (`Strg+Umschalt+F`) wird die Einrückung des gesamten Dokuments vereinheitlicht.
@@ -115,11 +109,10 @@ HTML-Dateien öffnen und bearbeiten Sie wie Markdown-Dokumente, mit Syntaxhervor
 ## HTML exportieren
 
 Mit **Datei → HTML exportieren …** wandelst du das aktuelle Markdown-Dokument in eine eigenständige HTML-Datei um. Du wählst dabei den Titel, ob ein vollständiges HTML-Dokument (mit Head und Body) erzeugt wird und welches Stylesheet verwendet wird: kein Stylesheet, der eingebaute Standard-Stil oder eine eigene CSS-Datei, die als Verweis in die Ausgabe geschrieben wird.
-=======
+
 Markdown-Syntax wird im Editor farblich hervorgehoben. Mit **Bearbeiten → Suchen und Ersetzen …** oder `Strg+F` kannst du im aktiven Dokument weitersuchen und alle passenden Stellen ersetzen.
 
 Unter Windows kannst du in **Datei** den Explorer-Eintrag **Im Explorer: Mit MD Editor öffnen** ein- oder ausschalten. Der benutzerspezifische Eintrag wird beim nächsten Programmstart auf den aktuellen Speicherort aktualisiert.
->>>>>>> 64406f222295e33523157e6fb9d0ec7332d91f46
 
 ## Weitere Funktionen
 
@@ -137,12 +130,8 @@ Unter Windows kannst du in **Datei** den Explorer-Eintrag **Im Explorer: Mit MD 
 | `Strg+S` | Speichern |
 | `Strg+Umschalt+S` | Speichern unter … |
 | `Strg+W` | Datei schließen |
-<<<<<<< HEAD
 | `Strg+Tab` | Nächster Tab |
 | `Strg+Umschalt+Tab` | Vorheriger Tab |
-=======
-| `Strg+F` | Suchen und Ersetzen |
->>>>>>> 64406f222295e33523157e6fb9d0ec7332d91f46
 | `Strg+B` | Fett |
 | `Strg+I` | Kursiv |
 | `Strg+K` | Link einfügen |
